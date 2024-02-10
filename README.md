@@ -10,7 +10,7 @@ Empecemos creando las necesidades principales de nuestra aplicación, es decir, 
 
 Empecemos creando nuestro proyecto en Laravel.
 
-> **Nota:** En esta práctica utilizaremos distintos vectores, como un favicon distinto al normal y una carpeta de vectores, tú puedes hacer lo que tu deseés con los recursos.
+> **Nota:** En esta práctica utilizaremos distintos recursos, añade los que tu quieras.
 
     composer create-project laravel/laravel example-inertia
     composer i
